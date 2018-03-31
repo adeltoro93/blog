@@ -1,0 +1,63 @@
+h1 {
+  color: navy;
+  text-decoration: underline;
+  font-style: oblique;
+  text-align: center;
+}
+h2 {
+  color: navy;
+  font-style: oblique;
+  text-align: center;
+}
+img  {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+  display: block;
+  text-align: center;
+}
+
+.one {
+
+  text-align: center;
+  display:  flex;
+}
+iframe {
+align-self: center;
+align-content: center;
+align-items: center;
+}
+
+}
+footer p {
+  color: blue;
+  font-size: 25px;
+  font-style: oblique;
+  background-color: silver;
+  border: 25px;
+  margin: 50px;
+  padding: 25px;
+  text-align: right;
+  font-weight: bold;
+}
+i.fa.fa-gg-circle {
+  font-size: 25px;
+}
+div.one {
+  display: flex;
+}
+
+  footer p {
+    color: blue;
+    font-size: 20px;
+    font-style: oblique;
+    background-color: silver;
+    border: 25px;
+    margin: 50px;
+    padding: 25px;
+    text-align: center;
+    font-weight: bold;
+
+}
